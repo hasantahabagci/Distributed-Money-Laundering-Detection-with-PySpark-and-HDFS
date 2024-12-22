@@ -170,3 +170,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 data/HI-Medium_Trans.csv
+.DS_Store
